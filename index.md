@@ -35,5 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Txt Master 是一个可以编辑文本文档的程序
-官方网站：[http://www.stackoverflow.ltd](http://www.stackoverflow.ltd)
-当前版本：[0.0.3rc1](javascript:void(0))
+**官方网站：**[http://www.stackoverflow.ltd](http://www.stackoverflow.ltd)                                                                                                      
+**当前版本**：[0.0.3rc1](javascript:void(0))
