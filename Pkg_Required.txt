@@ -1,0 +1,4 @@
+fileinput
+threading
+python-docx
+tkinter
